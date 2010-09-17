@@ -1,0 +1,2 @@
+*.run binary
+*.run -crlf -diff
